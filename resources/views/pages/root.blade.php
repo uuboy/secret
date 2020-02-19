@@ -9,7 +9,7 @@
         <div class="card-header">
           标题
         </div>
-        <div class="card-body">内容</div>
+        <div class="card-body">内容2</div>
       </div>
     </div>
   </div>
